@@ -6,4 +6,4 @@ Use the **Issues** tab to report **bugs**, **crashes**, or **suggestions**.
 
 ---
 
-🔗 **Modrinth Page**: [https://modrinth.com/modpack/best-look/versions]
+🔗 **Modrinth Page**: [https://modrinth.com/modpack/best-look](https://modrinth.com/modpack/best-look)
